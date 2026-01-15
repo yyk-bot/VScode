@@ -21,3 +21,4 @@ plt.axis('off')
 plt.savefig("❤图1.png")  # 在 plt.show() 之前调用 plt.savefig()
 plt.show()
 alpha=0.6
+change
